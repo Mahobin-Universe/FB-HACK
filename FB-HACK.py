@@ -96,13 +96,13 @@ def banner():
 
     print GG+"  √=============================================√"
 
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print WW+"  |            MOD BY: CYBER KING             |"
 
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
 
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
+    print WW+"  |        TEAM :  Cyber King           |"
 
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print Y+"  |             INSTAGRAM: davidpalacios1991              |"
 
     print GL+"  |---------------------------------------------|"
 

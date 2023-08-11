@@ -72,7 +72,7 @@ def banner():
 
     os.system('clear')
 
-    print
+   
 
 print    runntxt(GL+"              Assalamu'@laikum. ^_^")
 

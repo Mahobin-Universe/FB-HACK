@@ -72,9 +72,9 @@ def banner():
 
     os.system('clear')
 
-    print " "
+    print
 
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
+print    runntxt(GL+"              Assalamu'@laikum. ^_^")
 
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
 

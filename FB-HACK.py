@@ -74,7 +74,7 @@ def banner():
 
    
 
-print    runntxt(GL+"              Assalamu'@laikum. ^_^")
+    runntxt(GL+"              Assalamu'@laikum. ^_^")
 
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
 
